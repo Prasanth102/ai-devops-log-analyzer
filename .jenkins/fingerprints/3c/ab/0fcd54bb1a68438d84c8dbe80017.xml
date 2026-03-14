@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2026-03-14 07:59:08.972 UTC</timestamp>
+  <md5sum>3cab0fcd54bb1a68438d84c8dbe80017</md5sum>
+  <fileName>Credential id=github-credentials name=GitHub Token</fileName>
+  <usages>
+    <entry>
+      <string>ai-devops-pipeline</string>
+      <ranges>3-4</ranges>
+    </entry>
+    <entry>
+      <string>ai-devops-log-analyzer</string>
+      <ranges>1-2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

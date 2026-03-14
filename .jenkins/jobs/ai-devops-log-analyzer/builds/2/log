@@ -1,0 +1,20 @@
+Started by user [8mha:////4KrTcZgrtiMZZoPWnTxfauOAgjkMY8SFB3+0bEb9qj2WAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgY+/dLi1CL9gqLE4sS8kgwAW7noZcMAAAA=[0mPrasanth S
+Running as SYSTEM
+Building in workspace /home/prasanth/.jenkins/workspace/ai-devops-log-analyzer
+The recommended git tool is: NONE
+using credential github-credentials
+ > git rev-parse --resolve-git-dir /home/prasanth/.jenkins/workspace/ai-devops-log-analyzer/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Prasanth102/ai-devops-log-analyzer # timeout=10
+Fetching upstream changes from https://github.com/Prasanth102/ai-devops-log-analyzer
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+using GIT_ASKPASS to set credentials GitHub Token
+ > git fetch --tags --force --progress -- https://github.com/Prasanth102/ai-devops-log-analyzer +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+Checking out Revision 17a447e29cfb7e51e7cf34ff1a592ce9b8167655 (refs/remotes/origin/main)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 17a447e29cfb7e51e7cf34ff1a592ce9b8167655 # timeout=10
+Commit message: "initial commit"
+First time build. Skipping changelog.
+Finished: SUCCESS
